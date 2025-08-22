@@ -1,0 +1,37 @@
+.body-contaner{
+    /* background-image: url(./image/1743623117172.jpg); */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    border: 10px solid green;
+    background-size: contain;
+    
+}
+
+.cars-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cars-container2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+
+.car-container2{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.cars-contaner{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
